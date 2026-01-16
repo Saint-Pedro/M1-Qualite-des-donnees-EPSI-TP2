@@ -40,4 +40,7 @@ Le projet respecte les bonnes pratiques d'organisation de fichiers :
   
 ## Installation et Prérequis
 **Le projet est conçu pour fonctionner sur Google Colab ou un environnement local Python.**
-**pip install -r requirements.txt**
+```
+pip install -r requirements.txt
+```
+
