@@ -33,3 +33,11 @@ Le projet respecte les bonnes pratiques d'organisation de fichiers :
 ├── src/              # Notebooks et scripts de traitement
 ├── requirements.txt  # Dépendances Python (pandas, great_expectations, pyarrow)
 └── README.md         # Documentation du projet
+```
+## Résultats Clés
+* **Audit Initial : Taux de succès de 40% sur les données brutes.**
+* **Après Nettoyage : Amélioration du score à 60% de succès après restructuration et typage.**
+  
+## Installation et Prérequis
+**Le projet est conçu pour fonctionner sur Google Colab ou un environnement local Python.**
+**pip install -r requirements.txt**
